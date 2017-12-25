@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Home Sweet Home</string>
+    <string name="tvName">Name:</string>
+    <string name="etHintName">Please Enter Name</string>
+    <string name="tvPhone">Phone:</string>
+    <string name="tvEmail">Email:</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnUpdate">Upd</string>
+    <string name="btnDelete">Del</string>
+    <string name="sendMsg">Send Message</string>
+    <string name="enterText">Please Enter Text</string>
+    <string name="confirm">Confirm</string>
+    <string name="sendTo">Send To:</string>
+    <string name="noMsg">No Message!</string>
+</resources>

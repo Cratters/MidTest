@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">熱線通訊家</string>
+    <string name="tvName">姓名:</string>
+    <string name="etHintName">請輸入姓名</string>
+    <string name="tvPhone">電話:</string>
+    <string name="tvEmail">Email:</string>
+    <string name="btnAdd">新增</string>
+    <string name="btnUpdate">修改</string>
+    <string name="btnDelete">刪除</string>
+    <string name="sendMsg">發送簡訊</string>
+    <string name="enterText">請輸入文字訊息</string>
+    <string name="confirm">確認</string>
+    <string name="sendTo">發送訊息至:</string>
+    <string name="noMsg">尚未輸入訊息</string>
+</resources>
